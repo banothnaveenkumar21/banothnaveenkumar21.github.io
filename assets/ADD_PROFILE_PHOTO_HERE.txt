@@ -1,0 +1,2 @@
+Place your profile photo in this folder and name it profile.jpg.
+c:\Users\hp\Downloads\profile.jpg
